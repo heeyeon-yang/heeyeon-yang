@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Heeyeon Yang
+AWS cloud infrastructure and Infrastructure as Code (Terraform).
+Detail-oriented, with a preference for efficient, scalable, and well-documented solutions.
 
-<!--
-**heeyeon-yang/heeyeon-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech Stack
+*   **Cloud:** AWS
+*   **Networking:** VPC, Subnetting, Routing
+*   **IaC:** Terraform
+*   **Scripting:** Python, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Recent Projects
+- **QuizLab** — AI-powered quiz generation platform on AWS. Converts uploaded lecture PDFs into practice questions, with the full infrastructure (VPC, ALB/ASG, S3, Lambda, Bedrock) provisioned through Terraform. [View Code](https://github.com/heeyeon-yang/QuizLab)
+
+---
+
+## Get in Touch
+[LinkedIn](https://www.linkedin.com/in/heeyeon-yang) · [Email](mailto:yyheeyeon@gmail.com)
