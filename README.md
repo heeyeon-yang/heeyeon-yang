@@ -11,9 +11,10 @@ Detail-oriented, with a preference for efficient, scalable, and well-documented 
 
 
 ## Recent Projects
-- **QuizLab** — AI-powered quiz generation platform on AWS. Converts uploaded lecture PDFs into practice questions, with the full infrastructure (VPC, ALB/ASG, S3, Lambda, Bedrock) provisioned through Terraform. [View Code](https://github.com/heeyeon-yang/QuizLab)
+- **QuizLab** — AI-powered quiz generation platform on AWS. Converts uploaded lecture PDFs into practice questions, with the full infrastructure (VPC, ALB/ASG, S3, Lambda, Bedrock) provisioned through Terraform.
+- [View Code](https://github.com/heeyeon-yang/QuizLab)
 
 
 ## Get in Touch
 🔗 [LinkedIn](https://www.linkedin.com/in/heeyeon-yang)  
-✉️ **Email:** yyheeyeon@gmail.com
+✉️ **Email:** `yyheeyeon@gmail.com`
