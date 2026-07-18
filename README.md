@@ -15,4 +15,5 @@ Detail-oriented, with a preference for efficient, scalable, and well-documented 
 
 
 ## Get in Touch
-[LinkedIn](https://www.linkedin.com/in/heeyeon-yang) · [Email](mailto:yyheeyeon@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/heeyeon-yang)  
+✉️ **Email:** yyheeyeon@gmail.com
