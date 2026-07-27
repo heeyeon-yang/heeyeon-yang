@@ -17,4 +17,4 @@ I like understanding how systems work end to end, rather than staying inside one
 
 ## Get in Touch
 🔗 [LinkedIn](https://www.linkedin.com/in/heeyeon-yang)  
-✉️ **Email:** `yyheeyeon@gmail.com`
+📧 **Email:** `yyheeyeon@gmail.com`
