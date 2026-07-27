@@ -1,6 +1,6 @@
 # Hello, I'm Heeyeon Yang
-AWS cloud infrastructure and Infrastructure as Code (Terraform).
-Detail-oriented, with a preference for efficient, scalable, and well-documented solutions.
+Building cloud infrastructure with Terraform on AWS.
+I like understanding how systems work end to end, rather than staying inside one narrow role, and I don't mind rethinking an approach if it makes things more solid.
 
 
 ## Tech Stack
